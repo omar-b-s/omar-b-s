@@ -3,6 +3,8 @@
 <h3 align="center">A passionate student looking to learn more about coding</h3>
 <img align="right" alt="Coding" width="400" src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+- 🔭 I’m currently working on [BakersLandscaping](https://github.com/omar-b-s/BakersLandscaping)
+
 - 🌱 I’m currently learning **Java Script**
 
 - 💬 Ask me about **Java**
